@@ -1,2 +1,3 @@
 One day we tried to figure out git.
 It took us a while... but we worked through it bit by bit.
+We worked so hard that we got hungry
