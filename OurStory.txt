@@ -1,3 +1,4 @@
+
 Giddy with Git
 
 One day, we tried to figure out git.
